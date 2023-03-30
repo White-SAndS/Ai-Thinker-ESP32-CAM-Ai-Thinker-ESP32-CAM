@@ -11,7 +11,9 @@ Da ich eine kleine Armada an Ai-Thinker-ESP32-Cams habe und mir das Leben verein
 6. wenn ja, in Arduino die Kompilation und Upload starten
 7. wenn hochgeladen den Reset Button an der Cam noch mal kurz drücken und alles wird gut
 
-Nun hat es mich echt gewurmt wieso der Programmer kaputt sein soll. Also im Internet nach der Shematic gesucht und tatsächlich auch gefunden. Nur, irgendwie kann das doch gar nicht sein das da ein Masse-Pin als Reset verwendet wird! Dann müssten ja die Cams unterschiedlich sein!
+Nun hat es mich echt gewurmt wieso der Programmer kaputt sein soll. Also im Internet nach der Shematic gesucht und tatsächlich auch gefunden. Nur, irgendwie kann das doch gar nicht sein das da ein Masse-Pin als Reset verwendet wird! 
+Dann müssten ja die Cams unterschiedlich sein!
 Ja, sie sind tatsächlich unterschiedlich! Die Entwickler haben still und heimlich einen der Kritikpunkte das der Reset nicht nach aussen geführt wurde behoben aber weder in der offiziellen Shematic dokumentiert noch gibt es bei den Kaufangeboten für die Bundles einen Hinweis. 
 Also, wenn man neu kauft immer ein Bundle mit Programmer nehmen dann ist die Wahrscheinlichkeit hoch das es die neue Revision der Cam mit Reset-Pin ist.
 
+Ok, fairerweise muss ich anmerken das die Revision unterschiedlich ist. Die Version mit Reset-Pin ist 2366 und die ohne 2368. Muss ich nicht verstehen.
