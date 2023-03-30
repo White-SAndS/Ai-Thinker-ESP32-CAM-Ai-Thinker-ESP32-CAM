@@ -27,4 +27,5 @@ Die Revision OHNE Reset
 
 ![20230330_124817](https://user-images.githubusercontent.com/55184135/228833015-e9392964-1a29-4009-8ded-80d22c83acb1.jpg)
 Die Revision MIT Reset
-Oben links in der Ecke kann man schön die Hardwarerevisionen ablesen.
+
+Oben links in der Ecke kann man schön die Hardwarerevisionen ablesen und an dem Pin der am nächsten zur Power-LED ist die unterschiedlichen Aufdrucke. Ein guter Hinweis ist auch die Anzahl der Widerstände in dem Block nahe dem Pin. Wenn es nur 4 Widerstände sind dann kein Reset. Ich hoffe es sind Widerstände denn einen Bestückungsplan habe ich nicht.
