@@ -18,3 +18,4 @@ Also, wenn man neu kauft immer ein Bundle mit Programmer nehmen dann ist die Wah
 
 Ok, fairerweise muss ich anmerken das die Revision unterschiedlich ist. Die Version mit Reset-Pin ist 2366 und die ohne 2368. Muss ich nicht verstehen.
 Aber wenigstens ist der Aufdruck an dem Pin nicht GND sondern GND/R wenn man Reset hat.
+
